@@ -1,4 +1,4 @@
-<!-- Perfil: stack completo + repos públicos y privados (solo nombres) -->
+<!-- Perfil visual: skillicons, badges, stats — sin muro de texto -->
 
 <p align="center">
   <img src="./banner.jpg" alt="Carla Loayza" width="100%" />
@@ -28,126 +28,89 @@
 ### Sobre mí
 
 Full Stack & QA from Bolivia. Construyo apps web y móviles, integro sistemas y cuido la calidad antes de producción.  
-
+Experiencia en **Mamayatech**, **Desarrollamelo** y proyectos de fintech, hackathons e IA.
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,dart,python,cs,php,java,html,css,react,nextjs,vue,vite,flutter,nodejs,express,dotnet,postgres,mongodb,mysql,supabase,docker,githubactions,git,vercel,tailwind,prisma,solidity,fastapi,postman&perline=10&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,dart,python,cs,php,java,html,css&perline=9&theme=dark" alt="Lenguajes" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,flutter,nodejs,express,dotnet&perline=9&theme=dark" alt="Frontend Backend" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,docker,githubactions,git,vercel,prisma&perline=9&theme=dark" alt="Data DevOps" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,fastapi,postman,selenium,jest,pytorch,tensorflow,aws,linux&perline=9&theme=dark" alt="IA Web3 QA" />
 </p>
 
-<details open>
-<summary><b>Lenguajes</b></summary>
-<br/>
-
-`TypeScript` · `JavaScript` · `Dart` · `Python` · `C#` · `PHP` · `Java` · `SQL` · `HTML5` · `CSS3` · `Solidity` · `PLpgSQL`
-
-</details>
-
-<details open>
-<summary><b>Frontend</b></summary>
-<br/>
-
-`React` · `Next.js` · `Vue.js` · `Vite` · `Tailwind CSS` · `Zustand`
-
-</details>
-
-<details open>
-<summary><b>Móvil</b></summary>
-<br/>
-
-`Flutter` · `Riverpod` · `Go Router` · `Dio` · `React Native / Expo` · `Android SDK`
-
-</details>
-
-<details open>
-<summary><b>Backend</b></summary>
-<br/>
-
-`Node.js` · `Express` · `.NET / ASP.NET Core` · `FastAPI` · `REST` · `WebSockets` · `Prisma ORM`
-
-</details>
-
-<details open>
-<summary><b>Bases de datos</b></summary>
-<br/>
-
-`Oracle` · `SQL Server` · `PostgreSQL` · `MySQL` · `MongoDB` · `Supabase` · `Redis`
-
-</details>
-
-<details open>
-<summary><b>DevOps & herramientas</b></summary>
-<br/>
-
-`Docker` · `GitHub Actions` · `Vercel` · `Render` · `Husky` · `commitlint` · `Turborepo` · `Git`
-
-</details>
-
-<details open>
-<summary><b>IA & Web3</b></summary>
-<br/>
-
-`LangChain / LangGraph` · `OpenAI API` · `Groq` · `Hugging Face` · `Solidity` · `Hardhat` · `Ethers.js` · `Stellar` · `Clarity`
-
-</details>
-
-<details open>
-<summary><b>QA & prácticas</b></summary>
-<br/>
-
-`Vitest` · `Pytest` · `Playwright` · `Postman` · `flutter_test` · `Scrum` · `Agile` · `BDD` · `Clean Code` · `Git Flow`
-
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=black" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/Stellar-000000?style=flat-square&logo=stellar&logoColor=white" alt="Stellar" />
+</p>
 
 ---
 
-### Proyectos públicos
+### Destacados
 
-| Repo | Stack principal |
-|---|---|
-| [**S_O_S_Prevencion_Segura**](https://github.com/TheDuckHacker/S_O_S_Prevencion_Segura) | Dart · Flutter · Kotlin |
-| [**KoquiFI-Lottery**](https://github.com/TheDuckHacker/KoquiFI-Lottery) | TypeScript · Solidity · Web3 |
-| [**gridly**](https://github.com/TheDuckHacker/gridly) | Dart · Flutter |
-| [**Conecta**](https://github.com/TheDuckHacker/Conecta) | Dart · TypeScript · Flutter |
-| [**Mi-Tienda**](https://github.com/TheDuckHacker/Mi-Tienda) | Dart · Flutter · Docker |
-| [**Anima**](https://github.com/TheDuckHacker/Anima) | Dart · Flutter |
-| [**Pitch-Master-AI**](https://github.com/TheDuckHacker/Pitch-Master-AI) | Dart · Python |
-| [**sgdu-gestion-documental**](https://github.com/TheDuckHacker/sgdu-gestion-documental) | JavaScript |
-| [**GeoPlan-Web**](https://github.com/TheDuckHacker/GeoPlan-Web) | JavaScript · PLpgSQL |
-| [**ArquiFi**](https://github.com/TheDuckHacker/ArquiFi) / [**ArquiFi-DeFi**](https://github.com/TheDuckHacker/ArquiFi-DeFi) | JavaScript · Clarity |
-| [**miniapps**](https://github.com/TheDuckHacker/miniapps) | TypeScript · MDX |
-| [**koquifi-farcaster-frame**](https://github.com/TheDuckHacker/koquifi-farcaster-frame) | JavaScript |
+<p align="center">
+  <a href="https://github.com/TheDuckHacker/S_O_S_Prevencion_Segura"><img src="https://img.shields.io/badge/SOS%20Prevención-1er%20lugar%20CURSOR%20×%20YAIS-black?style=for-the-badge&logo=flutter&logoColor=white" alt="SOS" /></a>
+  <a href="https://github.com/TheDuckHacker/KoquiFI-Lottery"><img src="https://img.shields.io/badge/KoquiFI%20Lottery-Web3%20lanzado-7B61FF?style=for-the-badge&logo=ethereum&logoColor=white" alt="KoquiFI" /></a>
+  <a href="https://github.com/TheDuckHacker/Conecta"><img src="https://img.shields.io/badge/Conecta-Impacto%20social-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Conecta" /></a>
+  <a href="https://github.com/TheDuckHacker/gridly"><img src="https://img.shields.io/badge/Gridly-Flutter%20social-00C853?style=for-the-badge&logo=flutter&logoColor=white" alt="Gridly" /></a>
+</p>
 
----
-
-### Repositorios privados _(solo nombres)_
-
-> Código no público. Aparecen aquí para reflejar el trabajo real.
-
-| Repo | Lenguaje / foco |
-|---|---|
-| **carla-loayza-portfolio** | TypeScript · Next.js · Tailwind |
-| **jbc-bolivia** | JavaScript · CSS |
-| **InvestingAI** | Python · FastAPI · ML · PostgreSQL |
-| **Agentic Easy Contact** | TypeScript · Next.js · OpenAI · LangChain |
+<p align="center">
+  <a href="https://github.com/TheDuckHacker/Pitch-Master-AI"><img src="https://img.shields.io/badge/Pitch%20Master%20AI-Dart%20%2B%20Python-3776AB?style=flat-square&logo=dart&logoColor=white" alt="Pitch" /></a>
+  <a href="https://github.com/TheDuckHacker/Mi-Tienda"><img src="https://img.shields.io/badge/Mi%20Tienda-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Mi-Tienda" /></a>
+  <a href="https://github.com/TheDuckHacker/Anima"><img src="https://img.shields.io/badge/Anima-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Anima" /></a>
+  <a href="https://github.com/TheDuckHacker/GeoPlan-Web"><img src="https://img.shields.io/badge/GeoPlan-NASA%20Space%20Apps-0B3D91?style=flat-square&logo=nasa&logoColor=white" alt="GeoPlan" /></a>
+  <a href="https://github.com/TheDuckHacker/ArquiFi"><img src="https://img.shields.io/badge/ArquiFi-DeFi-F7931A?style=flat-square&logo=bitcoin&logoColor=white" alt="ArquiFi" /></a>
+  <a href="https://github.com/TheDuckHacker/sgdu-gestion-documental"><img src="https://img.shields.io/badge/SGDU-UTEPSA-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="SGDU" /></a>
+  <a href="https://github.com/TheDuckHacker/miniapps"><img src="https://img.shields.io/badge/miniapps-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="miniapps" /></a>
+  <a href="https://github.com/TheDuckHacker/koquifi-farcaster-frame"><img src="https://img.shields.io/badge/KoquiFI%20Frame-Farcaster-8A63D2?style=flat-square" alt="Frame" /></a>
+</p>
 
 ---
 
-### Colaboraciones destacadas
+### Privados · solo nombres
 
-| Proyecto | Rol |
-|---|---|
-| **ARQUISOFT** | Colaboradora · fintech / pagos |
-| **nasaXpace-ASURSOFT (GeoPlan)** | Colaboradora · NASA Space Apps |
-| **CodoChain** | Colaboradora · Stellar / factoring |
-| **LedgerLens** | Colaboradora · IA on-chain |
-| **DocDigitizer** | Colaboradora · OCR / Python |
-| **Mi Voz** | Colaboradora · React / prevención |
-| **Escudo MCP ES** | Colaboradora · seguridad MCP |
-| **El Duende** | Colaboradora · hackathon |
+<p align="center">
+  <img src="https://img.shields.io/badge/carla--loayza--portfolio-TypeScript%20·%20Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="portfolio" />
+  <img src="https://img.shields.io/badge/jbc--bolivia-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="jbc" />
+  <img src="https://img.shields.io/badge/InvestingAI-Python%20·%20FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="InvestingAI" />
+  <img src="https://img.shields.io/badge/Agentic%20Easy%20Contact-Next.js%20·%20IA-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic" />
+</p>
+
+---
+
+### Colaboraciones
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ARQUISOFT-fintech-111111?style=flat-square" alt="ARQUISOFT" />
+  <img src="https://img.shields.io/badge/CodoChain-Stellar-000000?style=flat-square&logo=stellar&logoColor=white" alt="CodoChain" />
+  <img src="https://img.shields.io/badge/LedgerLens-IA%20on--chain-7B61FF?style=flat-square" alt="LedgerLens" />
+  <img src="https://img.shields.io/badge/DocDigitizer-OCR-3776AB?style=flat-square&logo=python&logoColor=white" alt="DocDigitizer" />
+  <img src="https://img.shields.io/badge/Mi%20Voz-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Mi Voz" />
+  <img src="https://img.shields.io/badge/Escudo%20MCP%20ES-Security-black?style=flat-square" alt="Escudo" />
+  <img src="https://img.shields.io/badge/El%20Duende-Hackathon-E11D48?style=flat-square" alt="El Duende" />
+</p>
 
 ---
 
