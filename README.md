@@ -1,4 +1,4 @@
-<!-- Perfil inspirado en widgets actuales: typing-svg, skillicons, github-readme-stats, trophies, streak, activity-graph -->
+<!-- Perfil: stack completo + repos públicos y privados (solo nombres) -->
 
 <p align="center">
   <img src="./banner.jpg" alt="Carla Loayza" width="100%" />
@@ -35,19 +35,119 @@ Full Stack & QA from Bolivia. Construyo apps web y móviles, integro sistemas y 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,dart,python,cs,react,nextjs,vite,flutter,nodejs,express,dotnet,postgres,mongodb,docker,githubactions,git,vercel&perline=9&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,dart,python,cs,php,java,html,css,react,nextjs,vue,vite,flutter,nodejs,express,dotnet,postgres,mongodb,mysql,supabase,docker,githubactions,git,vercel,tailwind,prisma,solidity,fastapi,postman&perline=10&theme=dark" alt="Skills" />
 </p>
+
+<details open>
+<summary><b>Lenguajes</b></summary>
+<br/>
+
+`TypeScript` · `JavaScript` · `Dart` · `Python` · `C#` · `PHP` · `Java` · `SQL` · `HTML5` · `CSS3` · `Solidity` · `PLpgSQL`
+
+</details>
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br/>
+
+`React` · `Next.js` · `Vue.js` · `Vite` · `Tailwind CSS` · `Zustand`
+
+</details>
+
+<details open>
+<summary><b>Móvil</b></summary>
+<br/>
+
+`Flutter` · `Riverpod` · `Go Router` · `Dio` · `React Native / Expo` · `Android SDK`
+
+</details>
+
+<details open>
+<summary><b>Backend</b></summary>
+<br/>
+
+`Node.js` · `Express` · `.NET / ASP.NET Core` · `FastAPI` · `REST` · `WebSockets` · `Prisma ORM`
+
+</details>
+
+<details open>
+<summary><b>Bases de datos</b></summary>
+<br/>
+
+`Oracle` · `SQL Server` · `PostgreSQL` · `MySQL` · `MongoDB` · `Supabase` · `Redis`
+
+</details>
+
+<details open>
+<summary><b>DevOps & herramientas</b></summary>
+<br/>
+
+`Docker` · `GitHub Actions` · `Vercel` · `Render` · `Husky` · `commitlint` · `Turborepo` · `Git`
+
+</details>
+
+<details open>
+<summary><b>IA & Web3</b></summary>
+<br/>
+
+`LangChain / LangGraph` · `OpenAI API` · `Groq` · `Hugging Face` · `Solidity` · `Hardhat` · `Ethers.js` · `Stellar` · `Clarity`
+
+</details>
+
+<details open>
+<summary><b>QA & prácticas</b></summary>
+<br/>
+
+`Vitest` · `Pytest` · `Playwright` · `Postman` · `flutter_test` · `Scrum` · `Agile` · `BDD` · `Clean Code` · `Git Flow`
+
+</details>
 
 ---
 
-### Destacados
+### Proyectos públicos
 
-| Proyecto | Descripción |
+| Repo | Stack principal |
 |---|---|
-| **SOS Prevención Segura** | App de prevención · 1er lugar CURSOR × YAIS |
-| **KoquiFI Lottery** | Producto Web3 lanzado en equipo |
-| **ARQUISOFT / NASA Space Apps** | Pagos digitales y sostenibilidad urbana |
-| **Conecta** | App móvil con impacto social |
+| [**S_O_S_Prevencion_Segura**](https://github.com/TheDuckHacker/S_O_S_Prevencion_Segura) | Dart · Flutter · Kotlin |
+| [**KoquiFI-Lottery**](https://github.com/TheDuckHacker/KoquiFI-Lottery) | TypeScript · Solidity · Web3 |
+| [**gridly**](https://github.com/TheDuckHacker/gridly) | Dart · Flutter |
+| [**Conecta**](https://github.com/TheDuckHacker/Conecta) | Dart · TypeScript · Flutter |
+| [**Mi-Tienda**](https://github.com/TheDuckHacker/Mi-Tienda) | Dart · Flutter · Docker |
+| [**Anima**](https://github.com/TheDuckHacker/Anima) | Dart · Flutter |
+| [**Pitch-Master-AI**](https://github.com/TheDuckHacker/Pitch-Master-AI) | Dart · Python |
+| [**sgdu-gestion-documental**](https://github.com/TheDuckHacker/sgdu-gestion-documental) | JavaScript |
+| [**GeoPlan-Web**](https://github.com/TheDuckHacker/GeoPlan-Web) | JavaScript · PLpgSQL |
+| [**ArquiFi**](https://github.com/TheDuckHacker/ArquiFi) / [**ArquiFi-DeFi**](https://github.com/TheDuckHacker/ArquiFi-DeFi) | JavaScript · Clarity |
+| [**miniapps**](https://github.com/TheDuckHacker/miniapps) | TypeScript · MDX |
+| [**koquifi-farcaster-frame**](https://github.com/TheDuckHacker/koquifi-farcaster-frame) | JavaScript |
+
+---
+
+### Repositorios privados _(solo nombres)_
+
+> Código no público. Aparecen aquí para reflejar el trabajo real.
+
+| Repo | Lenguaje / foco |
+|---|---|
+| **carla-loayza-portfolio** | TypeScript · Next.js · Tailwind |
+| **jbc-bolivia** | JavaScript · CSS |
+| **InvestingAI** | Python · FastAPI · ML · PostgreSQL |
+| **Agentic Easy Contact** | TypeScript · Next.js · OpenAI · LangChain |
+
+---
+
+### Colaboraciones destacadas
+
+| Proyecto | Rol |
+|---|---|
+| **ARQUISOFT** | Colaboradora · fintech / pagos |
+| **nasaXpace-ASURSOFT (GeoPlan)** | Colaboradora · NASA Space Apps |
+| **CodoChain** | Colaboradora · Stellar / factoring |
+| **LedgerLens** | Colaboradora · IA on-chain |
+| **DocDigitizer** | Colaboradora · OCR / Python |
+| **Mi Voz** | Colaboradora · React / prevención |
+| **Escudo MCP ES** | Colaboradora · seguridad MCP |
+| **El Duende** | Colaboradora · hackathon |
 
 ---
 
@@ -55,7 +155,7 @@ Full Stack & QA from Bolivia. Construyo apps web y móviles, integro sistemas y 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheDuckHacker&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDuckHacker&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDuckHacker&layout=compact&theme=github_dark&hide_border=true&count_private=true" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
