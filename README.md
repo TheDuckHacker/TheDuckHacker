@@ -27,8 +27,7 @@
 
 ### Sobre mí
 
-Full Stack & QA from Bolivia. Construyo apps web y móviles, integro sistemas y cuido la calidad antes de producción.  
-Experiencia en **Mamayatech**, **Desarrollamelo** y proyectos de fintech, hackathons e IA.
+Full Stack & QA from Bolivia. Construyo apps web y móviles, integro sistemas y cuido la calidad antes de producción.
 
 ---
 
