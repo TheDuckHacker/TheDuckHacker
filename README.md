@@ -92,7 +92,6 @@ Full Stack & QA from Bolivia. Construyo apps web y móviles, integro sistemas y 
 
 <p align="center">
   <img src="https://img.shields.io/badge/carla--loayza--portfolio-TypeScript%20·%20Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="portfolio" />
-  <img src="https://img.shields.io/badge/jbc--bolivia-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="jbc" />
   <img src="https://img.shields.io/badge/InvestingAI-Python%20·%20FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="InvestingAI" />
   <img src="https://img.shields.io/badge/Agentic%20Easy%20Contact-Next.js%20·%20IA-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic" />
 </p>
